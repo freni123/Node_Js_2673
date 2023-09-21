@@ -1,0 +1,10 @@
+module.exports.User = require("./user.model");
+module.exports.matches = require("./match.model");
+module.exports.Team = require("./team.model");
+module.exports.Tournament = require("./tournament.model");
+module.exports.Players = require("./players.model");
+module.exports.matchResult = require("./match_result.model");
+module.exports.Contact = require("./contact.model");
+module.exports.Foundr = require("./founder.model");
+module.exports.Gallery = require("./gallery.model");
+module.exports.token = require("./token.model");
